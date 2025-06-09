@@ -1,16 +1,17 @@
-Trabajo_Integrador_Programaci髇
+Trabajo_Integrador_Programaci贸n
 
 * Alumnos: 
 Villarruel, Joaquin.
 Silveira, Santiago.
 
-* Comisi髇: 9
+* Comisi贸n: 9
 
-* Tema elegido: Algoritmos de b鷖queda y ordenamiento.
+* Tema elegido: Algoritmos de b煤squeda y ordenamiento.
 
 * Objetivos:
-1. Comprende la l骻ica de los algoritmos de b鷖queda y ordenamiento
+1. Comprende la l贸gica de los algoritmos de b煤squeda y ordenamiento
 2. Implementarlos en Python y observar su comportamiento
 3. Analizar su eficiencia y complejidad ante diferentes casos
-4. Comparar resultados y justificar la elecci髇 de algoritmos en distintos contextos
+4. Comparar resultados y justificar la elecci贸n de algoritmos en distintos contextos
 
+* Video Explicativo: https://www.youtube.com/watch?v=PoN32R5RtkM&ab_channel=JoaquinVillarruel
